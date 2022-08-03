@@ -17,4 +17,4 @@ The author is not responsible for your actions!
 
 <img src="https://antiscan.me/images/result/VZdgLVS2YA5o.png">
 
-Donate BTC: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2
+Donate BTC: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN26
